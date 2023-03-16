@@ -1,3 +1,18 @@
+body{
+    font-family: "Tibetan Machine Uni";
+}
+.focus-outline-none:focus{
+    outline: none;
+}
+.border-radius-15{
+    border-radius: 15px;
+}
+.border-radius-25{
+    border-radius: 25px;
+}
+.border-radius-50{
+    border-radius: 50px;
+}
 .small-image-50{
     width: 50px;
     height: 50px;
@@ -5,6 +20,10 @@
 .small-image-30{
     width: 30px;
     height: 30px;
+}
+.small-image-20{
+    width: 20px;
+    height: 20px;
 }
 .small-image-10{
     width: 10px;
@@ -49,3 +68,79 @@
 .border-radius-15{
     border-radius: 15px
 }
+.border-radius-5{
+   border-radius: 5px;
+}
+.tab{
+    height: 95vh;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.tab-option-element:hover{
+    background-color: royalblue;
+    color: white;
+}
+.tab-option-element > span{
+    font-size: 20px;
+}
+
+.sub-tab-header{
+    height:5%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.sub-tab-body{
+    height: 100%;
+    overflow-y: scroll;
+}
+.sub-tab-body::-webkit-scrollbar{
+    width:7px;
+}
+.sub-tab-body::-webkit-scrollbar-thumb{
+    background-color: royalblue;
+    border-radius: 15px;
+}
+
+.discussion-search-bar-content{
+    border: none;
+    background-color: rgba(0, 0, 200, 0.3);
+}
+
+#discussion-search-bar{
+    border: none;
+    width: 110%;
+    height: 90%;
+    margin-top: 1%;
+    background: none;
+    color: white;
+}
+#discussion-search-bar:focus{
+    outline: none;
+}
+
+.msg-preview-picture{
+    margin-left: -100%;
+}
+.msg-preview-msg, .msg-preview-name{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.msg-preview-msg{
+    opacity: 0.5;
+}
+.msg-preview-hour{
+    margin-top: 100%;
+    margin-left: -100%;
+    font-size: 10px;
+    text-align: center;
+}
+
+.msg-preview-content:hover{
+    background-color: royalblue;
+    color: white;
+}
+
+

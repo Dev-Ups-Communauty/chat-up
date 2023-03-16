@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c11bcd0-1454-462b-9d80-537d2ec0a936" name="Changes" comment="updating" />
+    <list default="true" id="5c11bcd0-1454-462b-9d80-537d2ec0a936" name="Changes" comment="updating">
+      <change afterPath="$PROJECT_DIR$/web/public/static/images/illustrations/bot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/pages/home/tabs/discussions/Discussion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/public/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/public/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/models/UrlBackEnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/models/UrlBackEnd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/models/UrlFrontEnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/models/UrlFrontEnd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/pages/home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/pages/home/Home.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,23 +50,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/monja/PycharmProjects/chat-up&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/monja/PycharmProjects/chat-up/web/public/static/images/profile_pictures",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/public/static/images/profile_pictures" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/pages/statics" />
       <recent name="$PROJECT_DIR$/src/pages/forms" />
@@ -76,7 +86,9 @@
       <workItem from="1678141781575" duration="3185000" />
       <workItem from="1678534161428" duration="387000" />
       <workItem from="1678535159191" duration="2940000" />
-      <workItem from="1678900210135" duration="909000" />
+      <workItem from="1678900210135" duration="2312000" />
+      <workItem from="1678905811521" duration="6461000" />
+      <workItem from="1678953815759" duration="10707000" />
     </task>
     <task id="LOCAL-00001" summary="updating">
       <created>1678535795483</created>
@@ -99,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678536578029</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updating">
+      <created>1678901357696</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678901357696</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
