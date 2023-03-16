@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c11bcd0-1454-462b-9d80-537d2ec0a936" name="Changes" comment="updating">
-      <change afterPath="$PROJECT_DIR$/web/public/static/images/illustrations/bot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/pages/home/tabs/discussions/Discussion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/public/static/images/illustrations/phone.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/public/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/public/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/src/models/UrlBackEnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/models/UrlBackEnd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/src/models/UrlFrontEnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/models/UrlFrontEnd.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/src/pages/home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/pages/home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/pages/home/tabs/discussions/Discussion.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/pages/home/tabs/discussions/Discussion.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +43,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MeuXHe4r5rg35Va3NMZzR8DiBj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/monja/PycharmProjects/chat-up/web/public/static/images/profile_pictures",
+    "last_opened_file_path": "/home/monja/PycharmProjects/chat-up/web/public/static/images/illustrations",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,11 +67,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/public/static/images/illustrations" />
       <recent name="$PROJECT_DIR$/web/public/static/images/profile_pictures" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/pages/statics" />
       <recent name="$PROJECT_DIR$/src/pages/forms" />
-      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -88,7 +88,7 @@
       <workItem from="1678535159191" duration="2940000" />
       <workItem from="1678900210135" duration="2312000" />
       <workItem from="1678905811521" duration="6461000" />
-      <workItem from="1678953815759" duration="10707000" />
+      <workItem from="1678953815759" duration="17555000" />
     </task>
     <task id="LOCAL-00001" summary="updating">
       <created>1678535795483</created>
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678901357696</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updating">
+      <created>1678965443223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678965443232</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

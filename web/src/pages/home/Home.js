@@ -96,7 +96,7 @@ class Home extends React.Component{
 
                 {/* message preview tabulation */}
                 <div className="col-10 tab">
-                    <div className="border-left row sub-tab-header p-1">
+                    <div className="border-left border-primary row sub-tab-header p-1">
                         { this.state.tabTitle }
                     </div>
                     <div className="row sub-tab-body">

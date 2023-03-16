@@ -85,6 +85,26 @@ body{
 .tab-option-element > span{
     font-size: 20px;
 }
+.scroll-custom-y{
+    overflow-y: scroll;
+}
+.scroll-custom-y::-webkit-scrollbar{
+    width: 7px;
+}
+.scroll-custom-y::-webkit-scrollbar-thumb{
+    background-color: royalblue;
+    border-radius: 15px;
+}
+.scroll-custom-x{
+    overflow-y: scroll;
+}
+.scroll-custom-x::-webkit-scrollbar{
+    width: 7px;
+}
+.scroll-custom-x::-webkit-scrollbar-thumb{
+    background-color: royalblue;
+    border-radius: 15px;
+}
 
 .sub-tab-header{
     height:5%;
@@ -93,14 +113,7 @@ body{
 }
 .sub-tab-body{
     height: 100%;
-    overflow-y: scroll;
-}
-.sub-tab-body::-webkit-scrollbar{
-    width:7px;
-}
-.sub-tab-body::-webkit-scrollbar-thumb{
-    background-color: royalblue;
-    border-radius: 15px;
+
 }
 
 .discussion-search-bar-content{
@@ -123,6 +136,11 @@ body{
 .msg-preview-picture{
     margin-left: -100%;
 }
+.etc{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
 .msg-preview-msg, .msg-preview-name{
     white-space: nowrap;
     overflow: hidden;
@@ -143,4 +161,49 @@ body{
     color: white;
 }
 
+.msg-content-header{
+    height: 10%;
+}
+.msg-content-body{
+    height: 78%;
+}
+.msg-content-footer{
+    height: 12%;
+}
+.msg-date{
+    font-size: 10px;
+}
+.msg-content{
+    border-radius: 15px;
+    padding: 1% 3% 1% 3%;
+    word-break: break-all;
+    width: fit-content;
+}
+.msg-content-you{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.msg-content-me{
+    background-color: royalblue;
+    color: white;
+}
 
+.msg-profile-picture{
+    margin-top: auto;
+}
+
+
+
+.msg-area{
+    font-size: 15px;
+    resize: none;
+    padding: 1% 3% 1% 3%;
+    border-radius: 20px;
+    width: 110%;
+    height: 60px;
+    background-color: rgba(0, 0, 200, 0.3);
+    border: none;
+    margin-left: -5%;
+}
+.msg-area:focus{
+    outline: none;
+}
